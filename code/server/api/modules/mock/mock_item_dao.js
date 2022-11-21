@@ -1,0 +1,5 @@
+exports.getItems = jest.fn()
+exports.getItem = jest.fn()
+exports.createItem = jest.fn()
+exports.updateItem = jest.fn()
+exports.deleteItem = jest.fn()

@@ -1,0 +1,6 @@
+exports.getSKUs = jest.fn()
+exports.getSKUsById = jest.fn()
+exports.createSKU = jest.fn()
+exports.editSKU = jest.fn()
+exports.editSKUPosition = jest.fn()
+exports.deleteSKU = jest.fn()

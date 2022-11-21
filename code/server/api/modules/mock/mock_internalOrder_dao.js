@@ -1,0 +1,7 @@
+exports.getInternalOrders = jest.fn()
+exports.getInternalOrdersRows = jest.fn()
+exports.getInternalOrder = jest.fn()
+exports.createInternalOrder = jest.fn()
+exports.createInternalOrderRows = jest.fn()
+exports.setInternalOrderState = jest.fn()
+exports.deleteInternalOrder = jest.fn()

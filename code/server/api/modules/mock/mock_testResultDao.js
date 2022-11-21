@@ -1,0 +1,5 @@
+exports.getSkuitemsRfidTestResults = jest.fn()
+exports.getSkuitemsRfidTestResultsId = jest.fn()
+exports.postSkuitemsTestResult = jest.fn()
+exports.putSkuitemsRfidTestResultId = jest.fn()
+exports.deleteSkuitemsRfidTestResultId = jest.fn()

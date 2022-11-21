@@ -1,0 +1,6 @@
+exports.getPositions = jest.fn()
+exports.createPosition = jest.fn()
+exports.editPosition = jest.fn()
+exports.editPositionID = jest.fn()
+exports.positionExists = jest.fn()
+exports.deletePosition = jest.fn()
